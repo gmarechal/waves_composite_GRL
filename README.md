@@ -26,8 +26,8 @@ The Python codes to reproduce the present work are available in the src and note
 If you wish to use the code from this repository, you may cite it as below:
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: Marechal
-  given-names: Gwendal
+Marechal
+Gwendal
 orcid: https://orcid.org/0000-0003-0378-5694
 title:gmarechal/waves_composite_GRL: Material for isentangle Fine-Scale Wind and Current Contributions to Sea State Variability
 version: v1.0
