@@ -3,10 +3,14 @@
 Disentangle Fine-Scale Wind and Current Contributions to Sea State Variability
 ### Authors
 Gwendal Marechal [Gwendal Marechal](https://gmarechal.github.io)
+
 Lionel Renault [Lionel Renault](https://www.researchgate.net/profile/Lionel-Renault)
+
 Alexandre Barboni [Alexandre Barboni](https://www.researchgate.net/profile/Alexandre-Barboni)
-Marco Larrañaga [Marco Larrañaga] (https://www.researchgate.net/profile/Marco-Larranaga)
-Franck Dumas [Franck Dumas] (https://www.researchgate.net/profile/Franck-Dumas)
+
+Marco Larrañaga [Marco Larrañaga](https://www.researchgate.net/profile/Marco-Larranaga)
+
+Franck Dumas [Franck Dumas](https://www.researchgate.net/profile/Franck-Dumas)
 
 ### DATA
 All data needed to reproduce the analysis in this paper are available upon request to the authors. Light data are available in this GitHub Repository
