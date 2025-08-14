@@ -1,6 +1,6 @@
 # Wave Composite GRL
 ### Source code for
-Disentangle Fine-Scale Wind and Current Contributions to Sea State Variability
+Disentangling Fine-Scale Wind and Current Contributions to Wave Height and Wave Steepness Gradients in the Gulf Stream Region
 ### Authors
 Gwendal Marechal [Gwendal Marechal](https://gmarechal.github.io)
 
