@@ -29,7 +29,7 @@ authors:
 Marechal
 Gwendal
 orcid: https://orcid.org/0000-0003-0378-5694
-title:gmarechal/waves_composite_GRL: Material for isentangle Fine-Scale Wind and Current Contributions to Sea State Variability
+title:gmarechal/waves_composite_GRL: Material for Disentangling Fine-Scale Wind and Current Contributions to Wave Height and Wave Steepness Gradients in the Gulf Stream Region
 version: v1.0
 date-released: 2025-08-13
 DOI: 10.5072/zenodo.311363                      
