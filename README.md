@@ -24,13 +24,5 @@ The Python codes to reproduce the present work are available in the src and note
 ### How to cite this code:
 
 If you wish to use the code from this repository, you may cite it as below:
-message: "If you use this software, please cite it as below."
-authors:
-Marechal
-Gwendal
-orcid: https://orcid.org/0000-0003-0378-5694
-title:gmarechal/waves_composite_GRL: Material for Disentangling Fine-Scale Wind and Current Contributions to Wave Height and Wave Steepness Gradients in the Gulf Stream Region
-version: v1.0
-date-released: 2025-08-13
-DOI: 10.5072/zenodo.311363                      
+Marechal, G., Renault, L., & Barbonie, A. Source codes and data for Disentangling Fine-Scale Wind and Current Contributions to Wave Height and Wave Steepness Gradients in the Gulf Stream Region submitted to GRL. [Computer software]. https://github.com/gmarechal/waves_composite_GRL/tree/main. doi:10.5281/zenodo.16901071     
 ...
